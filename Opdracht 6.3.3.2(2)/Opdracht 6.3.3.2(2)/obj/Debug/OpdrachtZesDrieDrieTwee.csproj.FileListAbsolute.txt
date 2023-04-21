@@ -1,0 +1,8 @@
+C:\Users\maste\source\repos\Opdracht 6.3.3.2(2)\Opdracht 6.3.3.2(2)\obj\Debug\OpdrachtZesDrieDrieTwee.csproj.AssemblyReference.cache
+C:\Users\maste\source\repos\Opdracht 6.3.3.2(2)\Opdracht 6.3.3.2(2)\obj\Debug\OpdrachtZesDrieDrieTwee.csproj.SuggestedBindingRedirects.cache
+C:\Users\maste\source\repos\Opdracht 6.3.3.2(2)\Opdracht 6.3.3.2(2)\obj\Debug\Opdracht_6._3._3._2_2_.OpdrachtZesDrieDrieTwee.resources
+C:\Users\maste\source\repos\Opdracht 6.3.3.2(2)\Opdracht 6.3.3.2(2)\obj\Debug\Opdracht_6._3._3._2_2_.Properties.Resources.resources
+C:\Users\maste\source\repos\Opdracht 6.3.3.2(2)\Opdracht 6.3.3.2(2)\obj\Debug\OpdrachtZesDrieDrieTwee.csproj.GenerateResource.cache
+C:\Users\maste\source\repos\Opdracht 6.3.3.2(2)\Opdracht 6.3.3.2(2)\obj\Debug\OpdrachtZesDrieDrieTwee.csproj.CoreCompileInputs.cache
+C:\Users\maste\source\repos\Opdracht 6.3.3.2(2)\Opdracht 6.3.3.2(2)\obj\Debug\Opdracht 6.3.3.2(2).exe
+C:\Users\maste\source\repos\Opdracht 6.3.3.2(2)\Opdracht 6.3.3.2(2)\obj\Debug\Opdracht 6.3.3.2(2).pdb
